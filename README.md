@@ -12,8 +12,8 @@ I'm a software engineer who loves building reliable, maintainable web apps and c
 
 ## 🌐 Connect
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mujtabaasim22)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/replace-with-your-linkedin)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/replace-with-your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujtabaasim)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mujtabajafrii)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.example.com)
 
 ---
